@@ -1,0 +1,1 @@
+print map(lambda x:x * x,range(6))
