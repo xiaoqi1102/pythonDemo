@@ -10,3 +10,5 @@ class Cat(Animal):
 
 dog =Dog()
 dog.run()
+print (isinstance(dog,Dog))
+##print isinstance(dog,object)
